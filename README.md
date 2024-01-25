@@ -7,6 +7,8 @@
 
 [Lab 1-1](https://github.com/seabar24/SYS-360/wiki/Lab-1‐1)
 
+[Lab 1-2](https://github.com/seabar24/SYS-360/wiki/Lab-1‐2)
+
 ### Week 2
 
 [Lab 2-1]()
