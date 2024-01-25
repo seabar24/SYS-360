@@ -13,4 +13,4 @@
 
 ### Week 2
 
-[Lab 2-1]()
+[Lab 2-2](https://github.com/seabar24/SYS-360/wiki/Lab-2-2)
