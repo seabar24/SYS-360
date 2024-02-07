@@ -19,6 +19,6 @@
 
 ### Week 3
 
-[Lab 3-1: AWS with AWS CLI]()
+[Lab 3-1: AWS with AWS CLI](https://github.com/seabar24/SYS-360/wiki/Lab-3%E2%80%901:-AWS-with-AWS-CLI)
 
 [Lab 3-2: AWS EC2 with CLI]()
