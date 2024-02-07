@@ -13,6 +13,6 @@
 
 ### Week 2
 
-[Lab 2-2: EC2 Web Server](https://github.com/seabar24/SYS-360/wiki/Lab-2%E2%80%902)
+[Lab 2-2: EC2 Web Server](https://github.com/seabar24/SYS-360/wiki/Lab-2%E2%80%902:-EC2-Web-Server)
 
 [Lab 2-3: IAM Console](https://github.com/seabar24/SYS-360/wiki/Lab-2%E2%80%903:-IAM-Console)
