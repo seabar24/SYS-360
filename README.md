@@ -5,7 +5,7 @@
 
 [AWS Console Page](https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1)
 
-[AWS Notes]()
+[AWS Notes](https://github.com/seabar24/SYS-360/tree/Home/AWS%20Notes)
 ### Week 1
 
 [Lab 1‐1: Accessing the AWS Sandbox in Cloud Foundations Course](https://github.com/seabar24/SYS-360/wiki/Lab-1%E2%80%901:-Accessing-the-AWS-Sandbox-in-Cloud-Foundations-Course)
